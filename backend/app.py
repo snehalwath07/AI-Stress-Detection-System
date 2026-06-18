@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import pandas as pd
+import os
 
 
 
@@ -116,10 +117,6 @@ def latest():
             "error": str(e)
         }), 500
 
-
-if __name__ == "__main__":
-    app.run(debug=True)
-    import os
 
 if __name__ == "__main__":
     app.run(
