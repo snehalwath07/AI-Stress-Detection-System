@@ -1,3 +1,6 @@
+## Live Demo
+Check out the deployed version of the project here:
+https://ai-stress-detection-system-kappa.vercel.app/
 # Project Title:-
 AI Stress Detection System
 ```
