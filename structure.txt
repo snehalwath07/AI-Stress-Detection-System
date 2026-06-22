@@ -1,0 +1,88 @@
+AI-Stress-Detection-System/
+│
+├── backend/
+│   │
+│   ├── app.py
+│   ├── train_model.py
+│   ├── requirements.txt
+│   │
+│   ├── models/
+│   │   └── stress_model.pkl
+│   │
+│   ├── dataset/
+│   │   └── stress_dataset.csv
+│   │
+│   ├── data/
+│   │   └── user_data.csv
+│   │
+│   └── utils/
+│       ├── predict.py
+│       ├── recommendations.py
+│       └── history.py
+│
+├── public/
+│   ├── favicon.ico
+│   ├── logo.png
+│   └── assets/
+│
+├── src/
+│   │
+│   ├── api/
+│   │   ├── stressApi.js
+│   │   ├── dashboardApi.js
+│   │   └── reportsApi.js
+│   │
+│   ├── assets/
+│   │   ├── logo.png
+│   │   ├── stress.svg
+│   │   └── illustrations/
+│   │
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── Sidebar.jsx
+│   │   ├── MetricCard.jsx
+│   │   ├── StressChart.jsx
+│   │   ├── RiskCard.jsx
+│   │   ├── AIInsight.jsx
+│   │   ├── RecentActivity.jsx
+│   │   ├── WellnessStreak.jsx
+│   │   ├── WellnessBadges.jsx
+│   │   └── LoadingSpinner.jsx
+│   │
+│   ├── layouts/
+│   │   └── MainLayout.jsx
+│   │
+│   ├── pages/
+│   │   ├── Assessment.jsx
+│   │   ├── Dashboard.jsx
+│   │   ├── Predictions.jsx
+│   │   ├── DigitalTwin.jsx
+│   │   ├── AICopilot.jsx
+│   │   ├── Reports.jsx
+│   │   ├── StressReliefHub.jsx
+│   │   ├── Settings.jsx
+│   │   └── BreathingExercise.jsx
+│   │
+│   ├── routes/
+│   │   └── AppRoutes.jsx
+│   │
+│   ├── styles/
+│   │   ├── globals.css
+│   │   ├── dashboard.css
+│   │   └── assessment.css
+│   │
+│   ├── utils/
+│   │   └── wellnessTracker.js
+│   │
+│   ├── firebase.js
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── .gitignore
+├── README.md
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── eslint.config.js
+└── index.html
