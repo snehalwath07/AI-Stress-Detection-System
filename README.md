@@ -4,9 +4,9 @@ https://ai-stress-detection-system-kappa.vercel.app/
 # Project Title:-
 AI Stress Detection System
 ```
-Author(s): Snehal Wath
-Affiliation:Suryodaya college / RTMNU
-Date: 27/03/2026
+Author: Snehal Wath
+Affiliation:RTMNU
+Date: june 2026
 ```
 ## Abstract
 ```
