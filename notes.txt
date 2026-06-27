@@ -1,1 +1,201 @@
+## Step 1: Open the Website
+
+Open the AI Stress Detection System using the deployed Vercel link.
+
+You will be redirected to the homepage of the application.
+
+---
+
+## Step 2: Explore the Homepage
+
+The homepage contains:
+
+* Navigation Bar
+* Project Introduction
+* Get Started Button
+* Features Section
+* About the System
+
+Read the information to understand the purpose of the AI Stress Detection System.
+
+---
+
+## Step 3: Open the Assessment Page
+
+Click on the **Assessment** option from the sidebar.
+
+You will be redirected to the Stress Assessment page where you can enter your daily lifestyle information.
+
+---
+
+## Step 4: Enter Assessment Details
+
+Fill in all the required fields:
+
+* Sleep Hours
+* Work Hours
+* Screen Time
+* Water Intake
+* Exercise Hours
+* Mood Score
+* Social Interaction Score
+
+Verify that all values are entered correctly.
+
+---
+
+## Step 5: Analyze Stress
+
+Click the **Analyze Stress** button.
+
+The system will:
+
+* Collect user inputs
+* Send data to the backend
+* Run the Machine Learning model
+* Predict the stress level
+* Generate personalized recommendations
+* Save the assessment history
+
+The analysis takes only a few seconds.
+
+---
+
+## Step 6: View Prediction Result
+
+After processing, the system displays:
+
+* Stress Level (Low / Moderate / High)
+* Personalized Health Recommendations
+* Latest Assessment Result
+
+Users can review the prediction instantly.
+
+---
+
+## Step 7: Open Dashboard
+
+Navigate to the **Dashboard** page.
+
+The dashboard displays:
+
+* Current Stress Level
+* Risk Level
+* Stress Trend Graph
+* AI Insights
+* Recent Activity
+* Wellness Statistics
+
+---
+
+## Step 8: View Predictions
+
+Open the **Predictions** page.
+
+The page displays:
+
+* Previous Assessments
+* Stress History
+* Prediction Results
+* Stress Trends
+
+This helps users monitor their progress over time.
+
+---
+
+## Step 9: AI Copilot
+
+Open the **AI Copilot** page.
+
+Users can:
+
+* Ask stress-related questions
+* Receive wellness guidance
+* Get healthy lifestyle suggestions
+* Learn stress management techniques
+
+---
+
+## Step 10: Reports
+
+Open the **Reports** page.
+
+Users can:
+
+* View assessment reports
+* Review previous results
+* Download stress reports (if enabled)
+
+---
+
+## Step 11: Stress Relief Hub
+
+Navigate to the **Stress Relief Hub**.
+
+The page provides:
+
+* Stress management tips
+* Healthy lifestyle advice
+* Mental wellness suggestions
+* Daily self-care recommendations
+
+---
+
+## Step 12: Settings
+
+Open the **Settings** page.
+
+Users can:
+
+* Manage application preferences
+* View account settings
+* Configure system options
+
+---
+
+# How It Works
+
+### Step 1
+
+User enters daily lifestyle information.
+
+### Step 2
+
+The frontend sends the data to the Flask backend.
+
+### Step 3
+
+The Machine Learning model analyzes the information.
+
+### Step 4
+
+The model predicts the user's stress level.
+
+### Step 5
+
+The system generates personalized recommendations.
+
+### Step 6
+
+The assessment is stored and displayed on the dashboard.
+
+---
+
+# Supported Browsers
+
+* Google Chrome
+* Microsoft Edge
+* Mozilla Firefox
+* Brave Browser
+
+---
+
+# Tips for Best Results
+
+* Enter accurate daily information.
+* Complete all assessment fields.
+* Maintain regular assessments for better tracking.
+* Review AI recommendations carefully.
+* Use the Dashboard to monitor long-term stress trends.
+* Follow the wellness suggestions to improve mental health.
 
